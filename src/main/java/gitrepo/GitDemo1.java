@@ -6,7 +6,7 @@ public class GitDemo1 {
 		System.out.println("Hi Git");
 		
 
-		//
+		//from git
 
 		System.out.println("2nd commit from git");
 
